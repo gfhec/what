@@ -1,0 +1,35 @@
+.orange {
+	background-color: orange;
+	height: 100px;
+	border: 1px solid black;
+}
+.yellow {
+	background-color: yellow;
+	height: 50px;
+	border: 1px solid black
+}
+.blue {
+	background-color: blue;
+	height: 50px;
+	border: 1px solid black;
+}
+.cyan {
+	background-color: cyan;
+	height: 300px;
+	border: 1px solid black;
+}
+.pink {
+	background-color: pink;
+	height: 300px;
+	border: 1px solid black
+}
+.purple {
+	background-color: purple;
+	height: 150px;
+	border: 1px solid black
+}
+.red {
+	background-color: red;
+	height: 150px;
+	border: 1px solid black;
+}
